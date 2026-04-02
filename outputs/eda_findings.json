@@ -1,0 +1,18 @@
+{
+  "total_records": 517,
+  "zero_area_pct": 47.8,
+  "raw_skewness": 12.85,
+  "log_skewness": 1.22,
+  "top_fire_month": "aug",
+  "top_area_month": "dec",
+  "feature_correlations": {
+    "FFMC": 0.047,
+    "DMC": 0.067,
+    "DC": 0.066,
+    "ISI": -0.01,
+    "temp": 0.053,
+    "RH": -0.054,
+    "wind": 0.067,
+    "rain": 0.023
+  }
+}
