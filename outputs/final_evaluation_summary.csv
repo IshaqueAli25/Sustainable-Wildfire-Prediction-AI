@@ -1,0 +1,4 @@
+Model,Test MAE,Test RMSE,Test R²,Inference (ms),Size (MB),Top SHAP Feature
+Random Forest,1.1056,1.3822,-0.031,83.253,2.6886,drought_wind
+MLP,1.0238,1.3521,0.0134,1.78,0.0644,X
+Transformer,1.1131,1.3806,-0.0285,2.557,0.296,X
