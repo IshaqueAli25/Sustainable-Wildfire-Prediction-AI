@@ -1,0 +1,8 @@
+Subgroup,N,RMSE,MAE
+Overall (all test samples),78,1.3822,1.1056
+Summer fires (Aug–Oct),64,1.3976,1.0717
+Non-summer fires,14,1.31,1.2606
+Large fires (top 25% area),20,2.0922,1.6972
+Small fires (bottom 75%),58,1.0296,0.9016
+Hotspot zone (NE park),27,1.7104,1.3202
+Rest of park,51,1.1719,0.992
