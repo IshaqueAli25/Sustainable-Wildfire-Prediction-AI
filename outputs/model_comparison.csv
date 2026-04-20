@@ -1,4 +1,0 @@
-Model,Test MAE,Test RMSE,Test R²,Val R²,Train Time (s),Size (MB)
-Random Forest,1.1056,1.3822,-0.031,0.0585,25.7,1.1626
-MLP,1.0238,1.3521,0.0134,-0.1695,5.6,0.053
-Transformer,1.1131,1.3806,-0.0285,-0.0018,7.3,0.2813

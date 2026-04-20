@@ -1,4 +1,0 @@
-Model,Inference (ms),Size (MB),Test RMSE,Test R²
-Random Forest,79.095,2.6886,1.3822,-0.031
-MLP,1.468,0.0644,1.3521,0.0134
-Transformer,3.583,0.296,1.3806,-0.0285

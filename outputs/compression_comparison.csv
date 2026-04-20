@@ -1,8 +1,0 @@
-Model,MAE,RMSE,R2,Technique,Inference (ms),Size (MB),Sparsity (%)
-MLP Baseline,1.0238,1.3521,0.0134,Baseline,0.429,0.0618,0.0
-Transformer Baseline,1.1131,1.3806,-0.0285,Baseline,3.983,0.2923,0.0
-MLP — Quantised (INT8),1.0233,1.3516,0.0142,Quantisation (INT8),1.227,0.027,0.0
-Transformer — Quantised (partial INT8),1.1135,1.3808,-0.0289,Quantisation (partial INT8),4.734,0.2882,0.0
-MLP — Pruned (50%),1.0414,1.3605,0.0012,Pruning (L1 50%),0.595,0.0617,1.0
-Transformer — Pruned (50%),1.0999,1.3727,-0.0169,Pruning (L1 50%),4.847,0.2923,0.8
-Student MLP — Distilled,1.0105,1.3421,0.028,Knowledge Distillation,0.595,0.0241,0.0
