@@ -7,7 +7,6 @@
 # --- System Files ---
 .DS_Store
 Thumbs.db
-dataset/
 figures/
 models/
 processed/

@@ -1,0 +1,31 @@
+
+ESA Fire Climate Change Initiative (Fire_cci): MODIS Fire_cci Burned Area Grid product, version 5.1
+========
+
+Publication Status:
+-------------------
+
+    Published with DOI - please see catalogue record for full abstract and citation text
+
+CEDA Data Catalogue Page for this dataset:
+------------------------------------------
+
+    https://catalogue.ceda.ac.uk/uuid/3628cb2fdba443588155e15dee8e5352
+
+Data Status:
+------------
+    This dataset has been completed.
+
+licence: 
+--------
+    Use of these data is covered by the following licence(s): 
+    
+    https://artefacts.ceda.ac.uk/licences/specific_licences/esacci_fire_terms_and_conditions.pdf
+    
+    When using these data you must cite them correctly using the citation given on the catalogue record.
+   
+Access:
+-------
+   Public data: access to these data is available to both registered and non-registered users.
+   
+
